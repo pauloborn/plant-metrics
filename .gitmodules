@@ -1,0 +1,9 @@
+[submodule "ig-plant-metrics-gateway"]
+	path = ig-plant-metrics-gateway
+	url = https://github.com/pauloborn/ig-plant-metrics-gateway.git
+[submodule "ig-plant-metrics-recorder"]
+	path = ig-plant-metrics-recorder
+	url = https://github.com/pauloborn/ig-plant-metrics-recorder.git
+[submodule "ig-plant-metrics-api"]
+	path = ig-plant-metrics-api
+	url = https://github.com/pauloborn/ig-plant-metrics-api.git
